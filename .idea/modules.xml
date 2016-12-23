@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Testing.iml" filepath="$PROJECT_DIR$/Testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libvideoprp/libvideoprp.iml" filepath="$PROJECT_DIR$/libvideoprp/libvideoprp.iml" />
       <module fileurl="file://$PROJECT_DIR$/madura/madura.iml" filepath="$PROJECT_DIR$/madura/madura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoprp/videoprp.iml" filepath="$PROJECT_DIR$/videoprp/videoprp.iml" />
     </modules>
   </component>
 </project>
