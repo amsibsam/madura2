@@ -1,1 +1,1 @@
-include ':app', ':libvideoprp', ':madura'
+include ':app', ':madura'
